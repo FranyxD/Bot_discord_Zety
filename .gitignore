@@ -1,0 +1,5 @@
+#ignorar el config token
+.env
+
+#ignorar paquetes node
+node_modules

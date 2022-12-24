@@ -1,0 +1,29 @@
+{
+  "name": "bot_discord_zety",
+  "version": "1.0.0",
+  "description": "bot de discord llamado zety",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FranyxD/Bot_discord_Zety.git"
+  },
+  "author": "FranyxD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FranyxD/Bot_discord_Zety/issues"
+  },
+  "homepage": "https://github.com/FranyxD/Bot_discord_Zety#readme",
+  "dependencies": {
+    "@discordjs/rest": "^1.5.0",
+    "discord-api-types": "^0.37.24",
+    "discord.js": "^14.7.1",
+    "node": "^19.3.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.3"
+  },
+  "type": "commonjs"
+}
