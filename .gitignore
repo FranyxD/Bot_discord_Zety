@@ -3,3 +3,7 @@
 
 #ignorar paquetes node
 node_modules
+
+#ignorar archivos replit
+.replit
+replit.nix
