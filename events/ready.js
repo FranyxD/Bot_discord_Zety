@@ -2,6 +2,8 @@ module.exports = {
   name: 'ready',
   run: (client) => {
     console.log('Im ready')
+    client.application.commands.set(client.commands.map(x => x))
+    /*
      client.application.commands.set([
         {
             name: 'ping',
@@ -21,5 +23,6 @@ module.exports = {
          ]
        }
     ])
+    */
   }
 }
