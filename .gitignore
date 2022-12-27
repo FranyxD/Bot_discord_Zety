@@ -7,3 +7,5 @@ node_modules
 #ignorar archivos replit
 .replit
 replit.nix
+
+config.json
